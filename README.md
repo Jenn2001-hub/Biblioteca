@@ -1,4 +1,6 @@
-[README.md](https://github.com/user-attachments/files/26038815/README.md)# Sistema de Gestión de Biblioteca
+[README.md](https://github.com/user-attachments/files/26038815/README.md)
+
+# Sistema de Gestión de Biblioteca
 
 Sistema de gestión de materiales bibliográficos desarrollado en Java, que permite registrar, listar y calcular multas por retraso para diferentes tipos de materiales como libros, revistas y películas.
 
